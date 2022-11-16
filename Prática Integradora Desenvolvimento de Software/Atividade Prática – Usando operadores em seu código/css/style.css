@@ -1,0 +1,11 @@
+@import url(../../Fundamentos_JavaScript/css/style.css);
+
+button {
+  padding: 5px;
+  font-size: 1.1em;
+  background-color: #00E88F;
+  border: 1px solid gray;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}
